@@ -80,7 +80,8 @@ main {
     background-color: white;
 }
 main > section#primeiro{
-    background-image: url('imagens/Joice.png');
+    background-image: url('./imagens/Joice.png');
+    background-color: #BF3475;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -104,7 +105,8 @@ main > section > p.paragrafo2{
     padding: 10px;
 }
 main > section#segundo{
-    background-image: url('imagens/Joice1.png');
+    background-image: url('./imagens/Joice1.png');
+    background-color: #BF3475;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -211,7 +213,8 @@ footer > div > nav > div > a > img.rede{
 }
 @media screen and (min-width: 800px) {
     main > section#primeiro{
-        background-image: url('imagens/Joice.png');
+        background-image: url('./imagens/Joice.png');
+        background-color: #BF3475;
         background-position: right;
         background-repeat: no-repeat;
         background-size: 39% 100%;
@@ -247,7 +250,8 @@ footer > div > nav > div > a > img.rede{
         text-indent: 30px;
     }
     main > section#segundo{
-        background-image: url('imagens/Joice1.png');
+        background-image: url('./imagens/Joice1.png');
+        background-color: #BF3475;
         background-repeat: no-repeat;
         background-position: right;
         background-size: 39% 100%;
